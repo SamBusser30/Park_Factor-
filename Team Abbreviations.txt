@@ -1,0 +1,33 @@
+This is just a helpful page to help identify the Retro abbreviations.
+
+ANA => Los Angeles Angels of Anaheim 	
+ARI => Arizona Diamondbacks	
+ATL => Atlanta Braves		
+BAL => Baltimore Orioles 
+BOS => Boston Red Sox		
+CHA => Chicago White Sox	
+CHN => Chicago Cubs		
+CIN => Cincinnati Reds		
+CLE => Cleveland Indians	
+COL => Colorado Rockies		
+DET => Detroit Tigers		
+FLO => Florida Marlins 	(In 2012 became the Miami Marlins)
+HOU => Houston Astros		
+KCA => Kansas City Royals	
+LAN => Los Angeles Dodgers	
+MIA => Miami Marlins	(Originally the Florida Marlins before 2012)		
+MIL => Milwaukee Brewers	
+MIN => Minnesota Twins		
+NYA => New York Yankees		
+NYN => New York Mets		
+OAK => Oakland Athletics	
+PHI => Philadelphia Phillies	
+PIT => Pittsburgh Pirates	
+SDN => San Diego Padres		
+SEA => Seattle Mariners		
+SFN => San Francisco Giants	
+SLN => St. Louis Cardinals	
+TBA => Tampa Bay Rays		
+TEX => Texas Rangers		
+TOR => Toronto Blue Jays	
+WAS => Washington Nationals	
