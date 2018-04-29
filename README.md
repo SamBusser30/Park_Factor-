@@ -1,6 +1,6 @@
 # Park_Factor
 Blaise Page,
-Kevin Nyugen,
+Kevin Nguyen,
 Sam Busser,
 Armen Arsenian
 
