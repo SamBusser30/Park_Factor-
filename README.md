@@ -14,3 +14,4 @@ Link to Project Presentation Video:
 https://youtu.be/cMYdtlw-M9Q
 
 Link to Final Project Paper:
+https://github.com/SamBusser30/Park_Factor/blob/master/04_ParkFactor_Part4.docx
