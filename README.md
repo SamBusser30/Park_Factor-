@@ -11,5 +11,6 @@ Questions: Does altitude have any major effects on baseball statistics? Moreover
 Application of Knowledge: Should the Rockies enforce techniques to mitigate the effects of altitude on play?
 
 Link to Project Presentation Video:
+https://youtu.be/cMYdtlw-M9Q
 
 Link to Final Project Paper:
