@@ -8,7 +8,7 @@ Description: Using a MLB Retrosheet database to determine if altitude has a noti
 
 Questions: Does altitude have any major effects on baseball statistics? Moreover, does altitude impact the number of singles, doubles, triples, home runs, individual player stats, runs per nine, and/or total number of hits?
 
-Application of Knowledge: Should the Rockies enforce techniques to mitigate the effects of altitude on play?
+Application of Knowledge: Humidors are working based on our results, as it does not matter where the game has been played.
 
 Link to Project Presentation Video:
 https://youtu.be/cMYdtlw-M9Q
